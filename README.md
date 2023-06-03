@@ -11,7 +11,8 @@ I am an Apprentice Full-Stack Developer with @LaunchAcademy. I am equipped with 
 *   🚀  I'm currently working on [SWOLmate](http://swolmate.herokuapp.com)
 *   🧠  I'm learning TypeScript, Ruby on Rails, Unity and as many frameworks as I can!
 *   🤝  I'm open to collaborating on any and all open-source projects!
-*   ⚡  I do a great movie trailer voice. Need a new voicemail greeting?<a href="https://www.twitch.tv/2MBStudios" target="_blank" rel="noreferrer"><img
+*   ⚡  I do a great movie trailer voice. Need a new voicemail greeting?
+<a href="https://www.twitch.tv/2MBStudios" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitch/status/2MBStudios?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
