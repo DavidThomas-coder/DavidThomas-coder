@@ -9,7 +9,7 @@ I am an Apprentice Full-Stack Developer with @LaunchAcademy. I am equipped with 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [det625@gmail.com](mailto:det625@gmail.com)
 * 🚀  I'm currently working on [SWOLmate](http://swolmate.herokuapp.com)
-* 🧠  I'm learning Ruby on Rails and Material UI, and am aiming to learn TypeScript, Unity and many other frameworks eventually!
+* 🧠  I'm currently supplementing my Javascript knowledge with frameworks such as Material UI, and am planning to learn TypeScript and Ruby on Rails!
 * 🤝  I'm open to collaborating on any and all open-source projects!
 * ⚡  I do a great movie trailer voice. Need a new voicemail greeting?
 
