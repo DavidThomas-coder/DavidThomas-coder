@@ -9,7 +9,7 @@ I am an Full-Stack Engineer and Developer, recently graduated from @LaunchAcadem
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [det625@gmail.com](mailto:det625@gmail.com)
 * 🚀  I'm currently working on [SWOLmate](http://swolmate.herokuapp.com)
-* 🧠  I'm currently supplementing my Javascript knowledge with frameworks such as Material UI, and am planning to learn Python and TypeScript!
+* 🧠  I'm currently supplementing my Javascript knowledge with tools such as Material UI, and am planning to learn Python and TypeScript!
 * 🤝  I'm open to collaborating on any and all open-source projects!
 * ⚡  I do a great movie trailer voice. Need a new voicemail greeting?
 
