@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Thomas
 ====================================================================================================================================
 
-Full-Stack Developer
--------------------------------
+Full-Stack Engineer and Developer
+---------------------------------
 
 I am an Apprentice Full-Stack Developer with @LaunchAcademy. I am equipped with skills in Java, React, Express, Node and SQL and am excited to learn more!
 
