@@ -11,7 +11,7 @@ I am an Full-Stack Engineer and Developer, recently graduated from @LaunchAcadem
 * 🚀  I'm currently working on [SWOLmate](http://swolmate.herokuapp.com)
 * 🧠  I'm currently supplementing my Javascript knowledge with tools such as Material UI, and am planning to learn Python and TypeScript!
 * 🤝  I'm open to collaborating on any and all open-source projects!
-* ⚡  I do a great movie trailer voice. Need a new voicemail greeting?
+* ⚡  I do a great movie trailer voice. If you need a new voicemail message, I'm your guy!
 
 <a href="https://www.twitch.tv/2MBStudios" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/2MBStudios?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
