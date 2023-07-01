@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Engineer and Developer
 ---------------------------------
 
-Hey there!  I'm a Full-Stack Engineer and Developer, recently graduated from @LaunchAcademy. I am equipped with skills in JavaScript, React.js, Express, Node.js and SQL and am excited to learn more!
+Hey there!  I'm a Full-Stack Engineer and Developer, recently graduated from @LaunchAcademy. I have over 7 years of data analytics experience using SQL, and I attended Launch Academy to supplement that knowledge with direct programming experience.
+
+I was trained in full-stack web development using JavaScript, React.js, Express and Node.js and I'm excited to keep learning more!
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [det625@gmail.com](mailto:det625@gmail.com)
