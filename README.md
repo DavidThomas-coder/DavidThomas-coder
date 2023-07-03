@@ -6,7 +6,7 @@ Full-Stack Engineer and Developer
 
 Hey there!  I'm a Full-Stack Engineer and Developer, recently graduated from @LaunchAcademy. I have over 7 years of data analytics experience using SQL, and I attended Launch Academy to supplement that experience with more direct programming knowledge.
 
-I was trained in full-stack web development using JavaScript, React.js, Express and Node.js and I'm excited to keep learning more!
+I was trained in full-stack web development using JavaScript, React.js, Express, RESTful APIs and Node.js and I'm excited to keep learning more!
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [det625@gmail.com](mailto:det625@gmail.com)
