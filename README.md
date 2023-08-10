@@ -12,7 +12,7 @@ I was trained in full-stack web development using JavaScript, React.js, Express,
 * ✉️  You can contact me at [det625@gmail.com](mailto:det625@gmail.com)
 * 🚀  I'm currently working on [SWOLmate](http://swolmate.herokuapp.com) and Riff (link incoming)!
 * 🧠  I'm currently supplementing my Javascript knowledge with tools such as Material UI, and I'm building out my data engineering skills by learning Python, Snowflake, Databricks and PySpark!
-* 🤝  I'm open to collaborating on any and all open-source projects or contracting work!
+* 🤝  I'm open to collaborating on any and all open-source projects, group projects or contracting work!
 * ⚡  I do a great movie trailer voice. If you need a new voicemail message, I'm your guy!
 
 <a href="https://www.twitch.tv/2MBStudios" target="_blank" rel="noreferrer"><img
