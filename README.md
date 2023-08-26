@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Engineer and Developer
 ---------------------------------
 
-Hello!  I'm a Full-Stack Engineer and Developer, recently graduated from @LaunchAcademy in Boston, MA. I have over 7 years of SQL experience in data analytics, and I attended Launch Academy to supplement that experience with more direct programming knowledge.
+Heya!  I'm a Full-Stack Engineer and Developer, recently graduated from @LaunchAcademy in Boston, MA. I have over 7 years of SQL experience in data analytics, and I attended Launch Academy to supplement that experience with more direct programming knowledge.
 
 I was trained in full-stack web development using JavaScript, React.js, Express, RESTful APIs and Node, and I'm excited to keep learning more and building out my skills in both the front and back-end, and I'm hoping to hit the ground running in a new industry!
 
