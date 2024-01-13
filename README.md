@@ -10,8 +10,8 @@ I was trained in full-stack web development using JavaScript, React.js, Express,
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [det625@gmail.com](mailto:det625@gmail.com)
-* 🚀  I'm currently working on a bunch of projects!  Check out Wayfarers (microdosing multiplayer roguelike), HeroSmith (D&D character creator), Giggity (gig-based job search board), SWOLmate (social fitness platform for gym buddies) and Riff (comedy-based social network) in my repos!
-* 🧠  I'm currently supplementing my Javascript knowledge with tools such as Material UI, and I'm building out my data engineering skills by learning Python, Snowflake, Databricks and PySpark!
+* 🚀  I'm currently working on a number of projects!  Check out Wayfarers (microdosing multiplayer roguelike), HeroSmith (D&D character creator), Giggity (gig-based job search board), SWOLmate (social fitness platform for gym buddies) and Riff (comedy-based social network) in my repos!
+* 🧠  I'm currently supplementing my Javascript knowledge with tools such as Material UI, and I'm learning Python for backend development!
 * 🤝  I'm open to collaborating on any and all open-source projects, group projects or contracting work!
 * ⚡  I do a great movie trailer voice. If you need a new voicemail message, I'm your guy!
 
