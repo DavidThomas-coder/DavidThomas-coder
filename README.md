@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Thomas
 ====================================================================================================================================
 
-Full-Stack Engineer and Developer
+Full-Stack Software Engineer and Web Developer
 ---------------------------------
 
 Heya!  I'm David, recently graduated from @LaunchAcademy in Boston, MA. I have over 7 years of SQL experience in data analytics, and I attended Launch Academy to supplement that experience with more direct programming knowledge.
