@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Engineer and Web Developer
 ---------------------------------
 
-Heya!  I'm David, recently graduated from @LaunchAcademy in Boston, MA. I have over 7 years of SQL experience in data analytics, and I attended Launch Academy to supplement that experience with more direct programming knowledge.
+I'm David, a recent graduate from Launch Academy in Boston, MA. With over 7 years of experience in SQL for data analytics, I decided to enhance my skills by pursuing training in full-stack web development. During my time at Launch Academy, I gained proficiency in JavaScript, React.js, Express, RESTful APIs, and Node.
 
-I was trained in full-stack web development using JavaScript, React.js, Express, RESTful APIs and Node, and I'm excited to keep learning more and building out my skills in both the front and back-end, and I'm excited to hit the ground running in a new industry!  I'm looking for any entry-level Software Engineer, Data Engineer or Developer roles!
+I'm enthusiastic about expanding my knowledge and honing my skills in both front-end and back-end development. To further complement my background, I've also learned Python for back-end development. I'm now seeking entry-level positions as a Software Engineer, Data Engineer, or Developer to leverage my diverse skill set.
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [det625@gmail.com](mailto:det625@gmail.com)
