@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Thomas
 ====================================================================================================================================
 
-Full-Stack Software Engineer, Data Enthusiast and Web Developer
+Full-Stack Software Engineer, Data Engineer and Web Developer
 ---------------------------------
 
 I'm David, a recent graduate from Launch Academy in Boston, MA. With over 7 years of experience in SQL for data analytics, I decided to enhance my skills by pursuing training in full-stack web development. During my time at Launch Academy, I gained proficiency in JavaScript, React.js, Express, RESTful APIs, and Node.
