@@ -10,7 +10,7 @@ I'm enthusiastic about expanding my knowledge and honing my skills in both front
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [det625@gmail.com](mailto:det625@gmail.com)
-* 🚀  I'm currently working on a number of projects!  Check out Spotalyze (Spotify Data Analysis app), HeroSmith (D&D character creator), SWOLmate (social fitness platform for gym buddies) and Riff (comedy-based social network) in my repos!
+* 🚀  I'm currently working on a number of projects!  Check out Spotalyze and HAL 9001 (Music and Movie data analysis/pipeline apps), HeroSmith (D&D character creator), SWOLmate (social fitness platform for gym buddies) and Riff (comedy-based social network) in my repos!
 * 🧠  I'm currently supplementing my Javascript knowledge with tools such as Material UI, and I'm learning Python for backend development!
 * 🤝  I'm open to collaborating on any and all open-source projects, group projects or contracting work!
 * ⚡  I do a great movie trailer voice. If you need a new voicemail message, I'm your guy!
