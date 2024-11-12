@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Inspired Engineering, Creative Leadership
 ---------------------------------
 
-Hey I'm David, a graduate from Launch Academy in Boston, MA! With over 7 years of experience in SQL for data analysis, I decided to broaden my skills by pursuing training in full-stack web development. During my time at Launch Academy, I gained proficiency in JavaScript, React.js, Express, RESTful APIs, and Node.
+Hey! I'm David, a graduate from Launch Academy in Boston, MA! With over 7 years of experience in SQL for data analysis, I decided to broaden my skills by pursuing training in full-stack web development. During my time at Launch Academy, I gained proficiency in JavaScript, React.js, Express, RESTful APIs, and Node.
 
 I'm enthusiastic about expanding my knowledge and honing my skills in both front-end and back-end development. To further complement my background, I've also learned Python for back-end development, ETL pipeline building and data analysis, and am expanding my systems design knowledge. I'm now seeking entry-level positions as a Software Engineer, Data Engineer, Web Developer or anything engineering-adjacent.
 
