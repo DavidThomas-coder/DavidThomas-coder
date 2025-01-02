@@ -6,7 +6,7 @@ Inspired Engineering, Creative Leadership
 
 I'm David, a graduate from Launch Academy in Boston, MA. With over 7 years of experience in SQL for data analysis, I decided to broaden my skills by pursuing training in full-stack web development. During my time at Launch Academy, I gained proficiency in JavaScript, React.js, Express, RESTful APIs and Node, and have since learned and utilized Python in numerous data-centric apps.
 
-I'm enthusiastic about expanding my knowledge and honing my skills in both front-end and back-end development. To further complement my background, I've also learned Python for back-end development, ETL pipeline building and data analysis, and am expanding my systems design knowledge. I'm now seeking entry-level positions as a Software Engineer, Data Engineer, Web Developer or anything engineering-adjacent.
+I'm enthusiastic about expanding my knowledge and honing my skills in full-stack development and data engineering. To further complement my background, I've also learned Python for back-end development, ETL pipeline building and data analysis, and am expanding my systems design knowledge. I'm now seeking entry-level positions as a Software Engineer, Data Engineer, Web Developer or anything engineering-adjacent.
 
 * 🌍  I'm based in Boston, MA
 * ✉️  You can contact me at [det625@gmail.com](mailto:det625@gmail.com)
